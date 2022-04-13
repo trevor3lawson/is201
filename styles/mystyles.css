@@ -1,0 +1,63 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.background{
+    background-color: lightgray;
+}
+
+.link{
+    color: blue;
+    text-decoration: underline;
+}
+
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+#center{
+    text-align: center;
+}
+
+#tag{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#right{
+    text-align: right;
+}
+
+#left{
+    text-align: left;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+.myrow {
+    display: flex;
+    font-size: small;
+    text-align: center;
+  }
+  
+.mycolumn {
+    flex: 50%;
+    padding: 5px;
+    
+  }
